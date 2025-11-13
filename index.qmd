@@ -1,0 +1,8 @@
+---
+title: "Generative KI wie ChatGPT als Lehr- und Lernhilfe in der Hochschullehre"
+author: "Roman Bartnik"
+date: "Version 8, 2025"
+numbered: false
+---
+
+Skript zum Workshop, © Roman Bartnik, TH Köln. Version 8, 2025/08/26 , roman.bartnik\@th-koeln.de (Updates zur letzten größeren Vorversion (V5):. (1), (4): Umfassende Einbindung neuer Studien und Anwendungsbeispiele; Anmerkungen zu **GPT-5**. (2): Ergänzung von neuen Visualisierungen der LLM Denkprozesse in (2.2.) und Diskussion von neuen kostenfreien **Angeboten für Lehrende** wie Academic Cloud u.a. (2.3). Neue empirische Studien zur Wirksamkeit von Prompt-Strategien (2.5.2). Ergänzung eines Abschnittes zum **Energieverbrauch der KI-Modelle** (2.6).(4.4.) Ergänzung neuer Anwendungsbeispiele für KI als Simulator. (5.4.): Ergänzung eines Abschnitts zum **Prüfen unter KI Bedingungen**. (5.5.) Übersicht zu **Richtlinien der KI Nutzung**.

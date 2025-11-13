@@ -1,0 +1,35 @@
+project:
+  type: book
+
+book:
+  title: "Generative KI wie ChatGPT als Lehr- und Lernhilfe in der Hochschullehre"
+  author: "Roman Bartnik"
+  date: "Version 8, 2025"
+
+  chapters:
+    - index.qmd
+    - kapitel1.qmd
+    - kapitel2.qmd
+    - kapitel3.qmd
+    - kapitel4.qmd
+    - kapitel5.qmd
+    - appendix1.qmd
+    - appendix2.qmd
+    - appendix3.qmd
+    - appendix4.qmd
+    - literaturverzeichnis.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    number-sections: false
+    toc: true
+    toc-depth: 3
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
