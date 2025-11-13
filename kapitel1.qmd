@@ -35,12 +35,11 @@ Auch **Studierende** nutzen bereits umfangreich Sprachmodelle für einen breiten
 
 Studierende setzen das Sprachmodell vor allem für **anspruchsvolle Tätigkeiten** ein – etwa das Erstellen neuer Inhalte oder das Analysieren komplexer Themen –, was höheren Ebenen der **Bloomschen Taxonomie** entspricht. Daraus ergibt sich die Herausforderung, sicherzustellen, dass Studierende wesentliche kognitive Aufgaben nicht vollständig an KI delegieren: **Aufgaben müssen angepasst und der verantwortungsvolle Umgang mit der Technik eingeübt werden.**
 
-![Abbildung 1: Wofür Studierende in unterschiedlichen Fachrichtungen LLMs nutzen](images/abbildung1.png){#fig-abbildung1} 
-*Quelle:* @Handa2025Anthropic\
+![Abbildung 1: Wofür Studierende in unterschiedlichen Fachrichtungen LLMs nutzen](images/abbildung1.png){#fig-abbildung1} *Quelle:* @Handa2025Anthropic\
 
 <br><br>
 
-![Abbildung 2: Schwerpunkte der Nutzung von LLMs (Claude) durch Studierende nach der Bloom'schen Taxonomie](images/abbildung2.png) 
+![Abbildung 2: Schwerpunkte der Nutzung von LLMs (Claude) durch Studierende nach der Bloom'schen Taxonomie](images/abbildung2.png)
 
 *Quelle:* @Handa2025Anthropic\
 

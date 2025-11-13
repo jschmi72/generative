@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Generative KI wie ChatGPT als Lehr- und Lernhilfe in der Hochschullehre"
